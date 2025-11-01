@@ -10,9 +10,9 @@ Methodology:
 - Created centroid visualizations and cluster profiling for business interpretation
 
 Key Insights:
-- **Cluster 0:** High-income, high-spending customers - target for premium loyalty programs
-- **Cluster 3:** High-income, low-spending customers - require needs assessment surveys
-- **Cluster 4:** Young customers with high spending potential - future major customer base
+- Cluster 0: High-income, high-spending customers - target for premium loyalty programs
+- Cluster 3: High-income, low-spending customers - require needs assessment surveys
+- Cluster 4: Young customers with high spending potential - future major customer base
 
 Technical Stack:
 Python, Pandas, Scikit-learn, K-Means Clustering, Data Visualization, EDA
