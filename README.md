@@ -11,7 +11,7 @@ Methodology:
 
 Key Insights:
 - Cluster 0: High-income, high-spending customers - target for premium loyalty programs
-- Cluster 3: High-income, low-spending customers - require needs assessment surveys
+- Cluster 3: High-income, low-spending customers - require special assessment surveys
 - Cluster 4: Young customers with high spending potential - future major customer base
 
 Technical Stack:
