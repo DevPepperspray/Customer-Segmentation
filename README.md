@@ -1,4 +1,4 @@
-# Project: Mall Customer Segmentation using K-Means Clustering**
+# Project: Mall Customer Segmentation using K-Means Clustering
 
 Objective:
 Implement unsupervised machine learning to identify distinct customer segments for targeted marketing strategies.
